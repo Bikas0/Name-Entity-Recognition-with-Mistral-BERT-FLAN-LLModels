@@ -2,10 +2,10 @@
 
 This repository contains a Name Entity Recognition (NER) system implemented using <b>MISTRAL, BERT, and FLAN T5</b> models. The system can identify and classify entities such as persons, organizations, and locations within text data.
 
-Features
-MISTRAL: Multi-task Intent, Slot, and TRAnsduction Learning, for robust NER.
-BERT: Bidirectional Encoder Representations from Transformers, for contextual word representations.
-FLAN T5: Fine-tuned Language-Agnostic NER with Text-To-Text Transfer Transformer.
+<h2>Features</h2><br>
+MISTRAL: Multi-task Intent, Slot, and TRAnsduction Learning, for robust NER.<br>
+BERT: Bidirectional Encoder Representations from Transformers, for contextual word representations.<br>
+FLAN T5: Fine-tuned Language-Agnostic NER with Text-To-Text Transfer Transformer.<br>
 
 Load these model from  <a href="https://huggingface.co/models">Hugging Face</a>
 ```bash
