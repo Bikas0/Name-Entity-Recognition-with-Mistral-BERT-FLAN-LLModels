@@ -2,7 +2,7 @@
 
 This repository contains a Name Entity Recognition (NER) system implemented using <b>MISTRAL, BERT, and FLAN T5</b> models. The system can identify and classify entities such as persons, organizations, and locations within text data.
 
-<h2>Features</h2><br>
+<h2>Features</h2>
 MISTRAL: Multi-task Intent, Slot, and TRAnsduction Learning, for robust NER.<br>
 BERT: Bidirectional Encoder Representations from Transformers, for contextual word representations.<br>
 FLAN T5: Fine-tuned Language-Agnostic NER with Text-To-Text Transfer Transformer.<br>
